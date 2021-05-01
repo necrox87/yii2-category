@@ -1,5 +1,5 @@
 {
-    "name": "necrox87/yii2-category",
+    "name": "nullref/yii2-category",
     "type": "yii2-extension",
     "license": "MIT",
     "minimum-stability": "dev",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "necrox87\\category\\": "src/"
+            "nullref\\category\\": "src/"
         }
     }
 }
